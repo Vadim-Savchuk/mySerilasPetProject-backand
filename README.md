@@ -1,7 +1,7 @@
 ## In this repository I put the frontend part to my pet project
 
 ### Description
-##### *I love to watch series and anime and when I watch them a lot I often forget which season or series I stopped at as the series often come out with a delay. That's why I created such a project where you can conveniently record the series and anime I watch and track them*
+##### *I love to watch series and anime, and when I watch them a lot, I often forget which season or series I stopped at, as the series often come out with a delay. That's why I created such a project where you can conveniently record the series and anime I watch and track them.*
 
 ### Technologies and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-e5e321?style=for-the-badge&logo=javascript&logoColor=201c00)
